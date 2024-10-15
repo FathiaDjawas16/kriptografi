@@ -1,4 +1,13 @@
 # kriptografi
+Nama  :Fathia Wardah S.Djawas
+
+NIM  : 312210196
+
+Kelas : TI.22.A1
+
+import string
+
+```
 import string
 
 # Fungsi untuk membuat matriks Playfair dari kunci
@@ -89,3 +98,9 @@ for i, text in enumerate(plaintexts):
     print(f"Plaintext {i+1}: {text}")
     print(f"Ciphertext: {encrypted_texts[i]}")
     print(f"Decrypted: {decrypted_texts[i]}\n")
+
+```
+![kripto](https://github.com/user-attachments/assets/7c0d031f-c4c7-43ac-a306-3abb593a51a6)
+
+
+
