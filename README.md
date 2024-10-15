@@ -8,7 +8,6 @@ Kelas : TI.22.A1
 import string
 
 ```
-import string
 
 # Fungsi untuk membuat matriks Playfair dari kunci
 def create_playfair_matrix(key):
